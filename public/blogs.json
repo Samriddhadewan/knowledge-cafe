@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "author": "Jane Doe",
+      "cover_img": "https://picsum.photos/id/1015/800/400",
+      "author_img": "https://randomuser.me/api/portraits/women/44.jpg",
+      "title": "Exploring the Future of AI",
+      "readtime": "5 min",
+      "post_date": "2025-01-02",
+      "hashtag": ["#AI", "#Future", "#Technology"]
+    },
+    {
+      "id": 2,
+      "author": "John Smith",
+      "cover_img": "https://picsum.photos/id/1021/800/400",
+      "author_img": "https://randomuser.me/api/portraits/men/45.jpg",
+      "title": "10 Tips for Learning React",
+      "readtime": "8 min",
+      "post_date": "2025-01-03",
+      "hashtag": ["#React", "#JavaScript", "#WebDevelopment"]
+    },
+    {
+      "id": 3,
+      "author": "Alice Johnson",
+      "cover_img": "https://picsum.photos/id/1035/800/400",
+      "author_img": "https://randomuser.me/api/portraits/women/46.jpg",
+      "title": "Mastering Node.js: A Guide",
+      "readtime": "12 min",
+      "post_date": "2025-01-01",
+      "hashtag": ["#NodeJS", "#Backend", "#Programming"]
+    },
+    {
+      "id": 4,
+      "author": "Michael Brown",
+      "cover_img": "https://picsum.photos/id/1043/800/400",
+      "author_img": "https://randomuser.me/api/portraits/men/47.jpg",
+      "title": "Cybersecurity Basics for Beginners",
+      "readtime": "6 min",
+      "post_date": "2025-01-02",
+      "hashtag": ["#Cybersecurity", "#Beginners", "#Tech"]
+    },
+    {
+      "id": 5,
+      "author": "Emily Davis",
+      "cover_img": "https://picsum.photos/id/1060/800/400",
+      "author_img": "https://randomuser.me/api/portraits/women/48.jpg",
+      "title": "The Art of Wedding Photography",
+      "readtime": "10 min",
+      "post_date": "2025-01-04",
+      "hashtag": ["#Photography", "#Wedding", "#Tips"]
+    }
+  ]
+  
